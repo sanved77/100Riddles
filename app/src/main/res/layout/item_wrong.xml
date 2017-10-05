@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="wrap_content"
+    android:gravity="center"
+    android:padding="20dp"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/darkblue"
+        android:textSize="30sp"
+        android:text="Wrong Answer"/>
+
+    <Button
+        android:id="@+id/bWrongOk"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/flat_selector"
+        android:textColor="@android:color/white"
+        android:layout_marginTop="8dp"
+        android:textSize="20sp"
+        android:padding="8dp"
+        android:text="OK" />
+
+</LinearLayout>

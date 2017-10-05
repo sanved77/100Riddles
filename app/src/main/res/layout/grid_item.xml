@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:padding="10dp"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/tvAlphabet"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:background="@drawable/flat_selector"
+        android:textColor="@android:color/white"
+        android:textSize="25sp"
+        android:text="A" />
+
+    <ImageView
+        android:id="@+id/ivTick"
+        android:elevation="1000dp"
+        android:paddingTop="3dp"
+        android:paddingLeft="3dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:src="@drawable/tick"/>
+
+</RelativeLayout>

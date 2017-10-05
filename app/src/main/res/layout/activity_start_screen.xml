@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/back"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|center_vertical"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="8dp">
+
+        <Button
+            android:id="@+id/bPlay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/flat_selector"
+            android:textColor="@android:color/white"
+            android:layout_marginBottom="15dp"
+            android:padding="8dp"
+            android:textSize="25sp"
+            android:text="Play" />
+        <Button
+            android:id="@+id/bSettings"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/flat_selector"
+            android:textColor="@android:color/white"
+            android:layout_marginBottom="15dp"
+            android:textSize="25sp"
+            android:padding="8dp"
+            android:text="Settings" />
+        <Button
+            android:id="@+id/bMore"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/flat_selector"
+            android:textColor="@android:color/white"
+            android:textSize="25sp"
+            android:padding="8dp"
+            android:text="More Apps" />
+
+    </LinearLayout>
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/ads"
+        android:layout_weight="3"
+        android:layout_width="wrap_content"
+        android:layout_gravity="center|bottom"
+        android:layout_height="wrap_content"
+        ads:adUnitId="@string/banner_home_footer"
+        ads:adSize="BANNER">
+    </com.google.android.gms.ads.AdView>
+
+</android.support.design.widget.CoordinatorLayout>

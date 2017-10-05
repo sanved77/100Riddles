@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_horizontal|center_vertical"
+            android:background="@drawable/back2"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+
+                <TextView
+                    android:id="@+id/tvDifficulty"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:padding="16dp"
+                    android:text="EASY"
+                    android:textColor="@color/green"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tvRiddle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:padding="16dp"
+                    android:text="When I apply for the jobs, I am competing against 7k students from the entire Sinhgad institute. This too with 2 backlogs and 65 aggregate. So what happens is, the software which filters students, removes me first."
+                    android:textColor="@color/darkblue"
+                    android:textSize="18sp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="18dp"
+                    android:orientation="horizontal">
+
+                    <LinearLayout
+                        android:focusable="true"
+                        android:focusableInTouchMode="true"
+                        android:layout_width="0px"
+                        android:layout_height="0px" />
+
+                    <EditText
+                        android:id="@+id/etAnswer"
+                        android:layout_width="0px"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="15dp"
+
+                        android:layout_weight="80" />
+
+                    <Button
+                        android:id="@+id/bEnterAnswer"
+                        android:layout_width="0px"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="20"
+                        android:background="@drawable/flat_selector"
+                        android:padding="8dp"
+                        android:text="Enter"
+                        android:textColor="@android:color/white"
+                        android:textSize="10sp" />
+
+
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="18dp"
+                    android:orientation="horizontal">
+
+                    <Button
+                        android:id="@+id/bAnswer"
+                        android:layout_width="0px"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="8dp"
+                        android:layout_weight="5"
+                        android:background="@drawable/flat_selector"
+                        android:padding="8dp"
+                        android:text="Get Answer"
+                        android:textColor="@android:color/white"
+                        android:textSize="25sp" />
+
+                    <Button
+                        android:id="@+id/bShare"
+                        android:layout_width="0px"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="8dp"
+                        android:layout_weight="5"
+                        android:background="@drawable/flat_selector"
+                        android:padding="8dp"
+                        android:text="Share With Friends"
+                        android:textColor="@android:color/white"
+                        android:textSize="20sp" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+    <ImageButton
+        android:id="@+id/ibBack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top|left"
+        android:layout_margin="12dp"
+        android:background="@null"
+        android:padding="8dp"
+        android:src="@drawable/ic_arrow_back_black_36dp" />
+
+    <TextView
+        android:id="@+id/tvRank"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top|center"
+        android:layout_marginTop="12dp"
+        android:text="#69"
+        android:textColor="@color/black"
+        android:textSize="30sp" />
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/ads"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center|bottom"
+        ads:adSize="SMART_BANNER"
+        ads:adUnitId="@string/banner_question" />
+
+</android.support.design.widget.CoordinatorLayout>
+

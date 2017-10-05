@@ -1,0 +1,316 @@
+{
+  "riddles": [{
+    "riddle": "dummy",
+    "answer": "dummy",
+    "level": 1,
+    "explain": "dhu"
+  },
+    {
+      "riddle": "What belongs to you but is mostly used by other people?",
+      "answer": "name",
+      "level": 1,
+      "explain": "People use your name to call you but you use it rarely"
+    },
+    {
+      "riddle": "What exists when one person has it, but ceases to exist when another person gets it?",
+      "answer": "Secret",
+      "level": 2,
+      "explain": "Once the secret is out, it doesn't remain a secret anymore"
+    },
+    {
+      "riddle": "It is the beginning of eternity, the end of time and space. It is the start of every end, and the end of every place. ",
+      "answer": "Letter e",
+      "level": 1,
+      "explain": "The letter e's position in these words is given"
+    },
+    {
+      "riddle": "It always runs, but never walks. Always murmurs, never talks. Has a mouth, but never eats. Has a bed, but never sleeps. What is it?",
+      "answer": "River",
+      "level": 1,
+      "explain": "The river has a mouth, it is said to run when it moves. The sides of the river are called beds."
+    },
+    {
+      "riddle": "When you need me, you throw me away. When you don't need me, you bring me back. What am I?",
+      "answer": "Fish Hook",
+      "level": 2,
+      "explain": "We throw the fish hook in the water for catching the fish, that is when we are using them. And then when we are done, we take them out."
+    },
+    {
+      "riddle": "A man is going to bed to get up early for his business trip the next morning when his night watchman calls him. Frantic, he goes, \"Sir, don't go on your trip! I just had a dream where your plane crashed and everyone onboard was killed!\" Taking the night watchman's advice, the man does not go on the trip. Sure enough, there is a plane crash, and everyone onboard is killed. Grateful, the man pays the night watchman $2,000, and then fires him. Why?",
+      "answer": "He was Sleeping",
+      "level": 2,
+      "explain": "The watchman was a night's watchmen and he was sleeping at night, hence he was fired."
+    },
+    {
+      "riddle": "A father and son have a car accident and are both badly hurt. They are both taken to separate hospitals. When the boy is taken in for an operation, the surgeon says 'I can not do the surgery because this is my son'. Who is the doctor?",
+      "answer": "Mother",
+      "level": 1,
+      "explain": "The father was with the son when the crash happened, not the mother."
+    },
+    {
+      "riddle": "You're driving a bus with six passengers. The bus comes to a stop on Main Street, four people get off and seven new people get on. At the next stop on West Street, three people get off and two get on. At the third stop on East street, six people get off the bus and five people get on. What is the driver's name?",
+      "answer": "My Name",
+      "level": 2,
+      "explain": "The riddle starts with \"You're driving a bus\", that means you are the driver"
+    },
+    {
+      "riddle": "I have lakes with no water, mountains with no stone, and cities with no buildings. What am I?",
+      "answer": "Map",
+      "level": 1,
+      "explain": "The Map has all these things but not physically"
+    },
+    {
+      "riddle": "What's greater than God, worse than Satan, poor people have it, rich people need it and if you eat it you'll die? ",
+      "answer": "nothing",
+      "level": 3,
+      "explain": "Nothing is greater than God, worse than Satan. Poor people have nothing, rich people need nothing. If you eat nothing, you'll die."
+    },
+    {
+      "riddle": "A woman is driving a silver car. She turns a corner, stops in front of a house that she does not own, looks at the house and realizes that she is broke. Why? What is happening?",
+      "answer": "Monopoly",
+      "level": 3,
+      "explain": "The woman is playing Monopoly"
+    },
+    {
+      "riddle": "What 8 letter word can have a letter taken away and it still makes a word.  Take another letter away and it still makes a word. Keep on doing that until you have one letter left. What is the word?",
+      "answer": "Starting",
+      "level": 3,
+      "explain": "The word is starting! starting, staring, string, sting, sing, sin, in, i. "
+    },
+    {
+      "riddle": "The more you take, the more you leave behind. What am I?",
+      "answer": "Footsteps",
+      "level": 2,
+      "explain": "The woman is playing Monopoly"
+    },
+    {
+      "riddle": "David's father has three sons : Snap, Crackle and _____ ?",
+      "answer": "David",
+      "level": 1,
+      "explain": "We said David's father, so David is one of the sons"
+    },
+    {
+      "riddle": "A boy was at a carnival and went to a booth where a man said to the boy, \"If I write your exact weight on this piece of paper then you have to give me $50, but if I cannot, I will pay you $50.\" The boy looked around and saw no scale so he agrees, thinking no matter what the carny writes he'll just say he weighs more or less. In the end the boy ended up paying the man $50. How did the man win the bet?",
+      "answer": "Your Exact Weight",
+      "level": 2,
+      "explain": "Instead of writing a number, he wrote the words \"Your Exact Weight\""
+    },
+    {
+      "riddle": "When does Christmas come before Thanksgiving?",
+      "answer": "Dictionary",
+      "level": 2,
+      "explain": "In the dictionary, the word Christmas comes before Thanksgiving"
+    },
+    {
+      "riddle": "Mr. and Mrs. Mustard have six daughters and each daughter has one brother. How many people are in the Mustard family?",
+      "answer": "9, nine",
+      "level": 2,
+      "explain": "There are nine Mustards in the family. Since each daughter shares the same brother, there are six girls, one boy and Mr. and Mrs. Mustard."
+    },
+    {
+      "riddle": "You live in a one story house made \"entirely of redwood\". What color would the stairs be?",
+      "answer": "No stairs, no color",
+      "level": 2,
+      "explain": "What stairs? You live in a one story house."
+    },{
+      "riddle": "There was a green house. Inside the green house there was a white house Inside the white house there was a red house. Inside the red house there were lots of babies. What am I?",
+      "answer": "Watermelons",
+      "level": 1,
+      "explain": "It is green on the outside, has a white layer and is full of juicy red inside with a lot of seeds."
+    },
+    {
+      "riddle": "I am not alive, but I grow; I don't have lungs, but I need air; I don't have a mouth, but water kills me. What am I?",
+      "answer": "Fire",
+      "level": 2,
+      "explain": "It has all those things"
+    },
+    {
+      "riddle": "What has six faces, But does not wear makeup. It also has twenty-one eyes, But cannot see?",
+      "answer": "Dice",
+      "level": 3,
+      "explain": "A side of dice is called its face and their dots count up to 1+2+3+4+5+6 = 21"
+    },
+    {
+      "riddle": "What is more useful when it is broken?",
+      "answer": "An Egg",
+      "level": 1,
+      "explain": "An egg is broken before use"
+    },
+    {
+      "riddle": "Before Mount Everest was discovered, what was the highest mountain on Earth?",
+      "answer": "Everest",
+      "level": 1,
+      "explain": "Mount Everest was still the highest mountain even when it wasn't discovered."
+    },
+    {
+      "riddle": "Samuel was out for a walk when it started to rain. He did not have an umbrella and he wasn't wearing a hat. His clothes were soaked, yet not a single hair on his head got wet. How could this happen?",
+      "answer": "Bald",
+      "level": 1,
+      "explain": "Samuel was bald"
+    },
+    {
+      "riddle": "They have not flesh, nor feathers, nor scales, nor bone. Yet they have fingers and thumbs of their own. What are they?",
+      "answer": "Gloves",
+      "level": 1,
+      "explain": "Gloves have fingers and thumbs"
+    },
+    {
+      "riddle": "A bus driver was heading down a street in Colorado. He went right past a stop sign without stopping, he turned left where there was a \"no left turn\" sign, and he went the wrong way on a one-way street. Then he went on the left side of the road past a cop car. Still - he didn't break any traffic laws. Why not?",
+      "answer": "Walking, not Driving",
+      "level": 3,
+      "explain": "He wasn't driving so he didn't break any rule"
+    },
+    {
+      "riddle": "This is as light as a feather, yet no man can hold it for long. What am I?",
+      "answer": "Breath",
+      "level": 2,
+      "explain": "Breath can't he held for long and it is very light"
+    },
+    {
+      "riddle": "An old man wanted to leave all of his money to one of his three sons, but he didn't know which one he should give it to. He gave each of them a few coins and told them to buy something that would be able to fill their living room. The first man bought straw, but there was not enough to fill the room. The second bought some sticks, but they still did not fill the room. The third man bought two things that filled the room, so he obtained his father's fortune. What were the two things that the man bought?",
+      "answer": "Candle , its light",
+      "level": 3,
+      "explain": "The light of the candle filled the room"
+    },
+    {
+      "riddle": "I am full of holes yet I can hold water, what am I?",
+      "answer": "Sponge",
+      "level": 1,
+      "explain": "A sponge can hold water and is full of holes"
+    },
+    {
+      "riddle": "A man wanted to enter an exclusive club but did not know the password that was required. He waited by the door and listened. A club member knocked on the door and the doorman said, \"twelve.\" The member replied, \"six \" and was let in. A second member came to the door and the doorman said, \"six.\" The member replied, \"three\" and was let in. The man thought he had heard enough and walked up to the door. The doorman said ,\"ten\" and the man replied, \"five.\" But he was not let in. What should have he said?",
+      "answer": "Three 3",
+      "level": 3,
+      "explain": "The doorman lets in those who answer with the number of letters in the word the doorman says"
+    },
+    {
+      "riddle": "I’m tall when I’m young and I’m short when I’m old. What am I?",
+      "answer": "Candle or Pencil",
+      "level": 1,
+      "explain": "Both of these become shorter as they are used."
+    },
+    {
+      "riddle": "Tool of thief, toy of queen. Always used to be unseen. Sign of joy, sign of sorrow. Giving all likeness borrowed. What am I?",
+      "answer": "Mask",
+      "level": 1,
+      "explain": "A mask is used by all these people and things."
+    },
+    {
+      "riddle": "There is an ancient invention still used in some parts of the world today that allows people to see through walls. What is it?",
+      "answer": "Window",
+      "level": 1,
+      "explain": "Windows have been used since a lot of time "
+    },
+    {
+      "riddle": "How can you make seven even?",
+      "answer": "Remove s",
+      "level": 1,
+      "explain": "Removing the letter s from seven makes it even"
+    },
+    {
+      "riddle": "You use a knife to slice my head and weep beside me when I am dead.",
+      "answer": "Onion",
+      "level": 1,
+      "explain": "Cutting onion makes a person tear eyed"
+    },
+    {
+      "riddle": "What 7 letter word is spelled the same way backwards and forewords?",
+      "answer": "Racecar",
+      "level": 1,
+      "explain": "The word Racecar is a 7 lettered palindrome"
+    },
+    {
+      "riddle": "You have three stoves: a gas stove, a wood stove, and a coal stove, but only one match. Which should you light first?",
+      "answer": "Match",
+      "level": 1,
+      "explain": "The match should be lighted first before lighting the stoves"
+    },
+    {
+      "riddle": "You answer me, yet I never ask you a question. What am I?",
+      "answer": "Phone",
+      "level": 2,
+      "explain": "You answer your phone but it never questions you"
+    },
+    {
+      "riddle": "I am a word. My first four letters refer to a mark on a person's skin; three letters found in the middle refer to what all mathematics students know. My last four letters refer to a place where everyone love to be, and my whole is familiar to all economics students. I am an eight letter word. What am I?",
+      "answer": "Scarcity",
+      "level": 3,
+      "explain": "4 letter - Scar, which is found on skin, 3 letter word - Arc, a geometrical element, Last 4 letters - city, a place people like"
+    },
+    {
+      "riddle": "You can't touch me nor see me, but I always pull you, keeping you heavy. When I am gone you will always float. What am I?",
+      "answer": "Gravity",
+      "level": 1,
+      "explain": "Gravity is keeping us on the ground"
+    },
+    {
+      "riddle": "What travels around the world but stays in one spot?",
+      "answer": "Stamp",
+      "level": 2,
+      "explain": "A stamp is glued to the letter and hence doesn't move"
+    },
+
+    {
+      "riddle": "What has hands but can not clap?",
+      "answer": "Clock",
+      "level": 1,
+      "explain": "A Clock has hands which cannot clap"
+    },
+    {
+      "riddle": "What is so delicate that saying its name breaks it?",
+      "answer": "Silence",
+      "level": 2,
+      "explain": "Saying silence word aloud breaks silence"
+    },
+    {
+      "riddle": "What is as big as you are and yet does not weigh anything?",
+      "answer": "Shadow",
+      "level": 1,
+      "explain": "The shadow will be the size of us but wont weight anything"
+    },
+    {
+      "riddle": "I never was, am always to be, No one ever saw me, nor ever will And yet I am the confidence of all To live and breathe on this terrestrial ball. What am I?",
+      "answer": "Tomorrow",
+      "level": 3,
+      "explain": "Tomorrow, the next day, fits all the description given above."
+    },
+    {
+      "riddle": "Who makes it, has no need of it. Who buys it, has no use for it. Who uses it can neither see nor feel it. What am I?",
+      "answer": "Coffin",
+      "level": 2,
+      "explain": "A Coffin maker never uses it himself, The person who buys it never uses it, A dead body can't feel or see it."
+    },
+    {
+      "riddle": "I am free yet priceless, you can't own me but you can use me, you can't keep me but you can spend me. Once you lost me you can never have me back. What am I?",
+      "answer": "Time",
+      "level": 2,
+      "explain": "Time fits the description above"
+    },
+    {
+      "riddle": "What do you never eat for Lunch",
+      "answer": "Dinner",
+      "level": 1,
+      "explain": "Dinner is a different meal"
+    },
+    {
+      "riddle": "What has a head and a tail, but no body?",
+      "answer": "Coin",
+      "level": 1,
+      "explain": "A coin has a head and a tail at it's end"
+    },
+    {
+      "riddle": "What goes up but never comes down?",
+      "answer": "Age",
+      "level": 1,
+      "explain": "The age always keeps increasing but never decreases."
+    },
+    {
+    "riddle": "You have completed all the riddles ! Nice work. We will be updating the app and will be inserting more riddles soon. When that happens, you will get a notification. Enter thanks in the answer box to end the game.",
+    "answer": "Thanks",
+    "level": 1,
+    "explain": "Your Welcome"
+    }
+
+  ]
+}
