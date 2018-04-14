@@ -80,7 +80,12 @@ public class RiddleScreen extends AppCompatActivity implements View.OnClickListe
             abc = (String) savedInstanceState.getSerializable("currRank");
         }
 
-        currRank = Integer.parseInt(abc);
+        try {
+            currRank = Integer.parseInt(abc);
+        }catch(NumberFormatException ne){
+            ne.printStackTrace();
+            finish();
+        }
 
         initVals();
 
@@ -242,14 +247,14 @@ public class RiddleScreen extends AppCompatActivity implements View.OnClickListe
                     @Override
                     public void onClick(View v) {
 
-                        if(UnityAds.isReady()){
+                        /*if(UnityAds.isReady()){
                             mTracker.send(new HitBuilders.EventBuilder()
                                     .setCategory("Unity Shown")
                                     .setAction("Q - " + currRank)
                                     .build());
                             UnityAds.show(RiddleScreen.this);
                         }
-                        else if (mAd.isLoaded()) {
+                        else*/ if (mAd.isLoaded()) {
                             mTracker.send(new HitBuilders.EventBuilder()
                                     .setCategory("Admob Shown")
                                     .setAction("Q - " + currRank)
